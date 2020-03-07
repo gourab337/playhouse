@@ -1,4 +1,4 @@
-# playhouse
+# Playhouse
 Welcome to my playhouse
 
 Some random projects done in my free time for fun:) 
